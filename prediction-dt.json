@@ -1,0 +1,62 @@
+[
+  {
+    "trait": "BIG5_Agreeableness",
+    "value": 0.6257,
+    "name": "Rob"
+  },
+  {
+    "trait": "BIG5_Openness",
+    "value": 0.29510000000000003,
+    "name": "Rob"
+  },
+  {
+    "trait": "Age",
+    "value": 4.725201875650251,
+    "name": "Rob"
+  },
+  {
+    "trait": "BIG5_Conscientiousness",
+    "value": 0.3061,
+    "name": "Rob"
+  },
+  {
+    "trait": "BIG5_Extraversion",
+    "value": 0.9833,
+    "name": "Rob"
+  },
+  {
+    "trait": "BIG5_Neuroticism",
+    "value": 0.040999999999999995,
+    "name": "Rob"
+  },
+  {
+    "trait": "BIG5_Neuroticism",
+    "value": 0.040999999999999995,
+    "name": "Noa"
+  },
+  {
+    "trait": "Age",
+    "value": 4.725201875650251,
+    "name": "Noa"
+  },
+  {
+    "trait": "BIG5_Openness",
+    "value": 0.29510000000000003,
+    "name": "Noa"
+  },
+  {
+    "trait": "BIG5_Agreeableness",
+    "value": 0.6257,
+    "name": "Noa"
+  },
+  {
+    "trait": "BIG5_Conscientiousness",
+    "value": 0.3061,
+    "name": "Noa"
+  },
+  {
+    "trait": "BIG5_Extraversion",
+    "value": 0.9833,
+    "name": "Noa"
+  }
+]

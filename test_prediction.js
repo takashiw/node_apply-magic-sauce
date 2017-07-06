@@ -24,7 +24,7 @@ var likes = [
 function getPrediction() {
     // https://applymagicsauce.com/documentation_technical.html
     var args = {
-        data: likes,
+        data: "Hello there",
         headers: {
             "X-Auth-Token": secrets.token,
             "Content-Type": "application/json",
